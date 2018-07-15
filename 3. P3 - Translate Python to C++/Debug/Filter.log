@@ -1,0 +1,32 @@
+﻿  tests.cpp
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\debugging_helpers.cpp(26): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\debugging_helpers.cpp(29): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\debugging_helpers.cpp(45): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\debugging_helpers.cpp(48): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(70): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(79): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(82): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(130): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(192): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(193): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\helpers.cpp(250): warning C4101: 'color': unreferenced local variable
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(46): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(126): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(128): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(191): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(193): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(208): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(210): warning C4018: '<': signed/unsigned mismatch
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(231): warning C4305: '=': truncation from 'double' to 'float'
+d:\c replacements\desktop\online learning\self-driving course\histogram in c\project\tests.cpp(232): warning C4305: '=': truncation from 'double' to 'float'
+  Filter.vcxproj -> D:\C Replacements\Desktop\Online Learning\Self-Driving Course\Histogram in C\project\Debug\Filter.exe
